@@ -1,4 +1,4 @@
-## Supplementary material for the book "Quantum Chemistry in the Age of Machine Learning"
+### Supplementary material for the book "Quantum Chemistry in the Age of Machine Learning"
 
 # Kernel Methods (chapter 22)
 
