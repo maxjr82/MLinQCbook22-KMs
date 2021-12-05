@@ -12,6 +12,11 @@ In this introductory notebook, it is shown how to build a kernel matrix from scr
 dataset of small molecules. Then, this kernel matrix is used to illustrate how to train a non-linear 
 machine learning model (regression or classification) and make predictions for a new data point. 
 
+- Case study for Fitting with kernel ridge regression (fitting_with_KRR.ipynb):
+
+This notebook provides an implementation of KRR (Kernel Ridge Rergression) from scratch with numpy library and the corresponding formula. 
+After the implementation, this notebook will use this KRR class to fit $H_2$ FCI data with Linear kernel and Guassian kernel, then plot it to show the result. You can also change the hyperparameter by yourself to see how the result changes with different hyperparameter.
+
 - Case study for unsupervised learning using kernels (case_study_kpca.ipynb):
 
 This notebook provides an implementation of the **kernel PCA (KPCA)** algorithm from scratch using the
